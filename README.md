@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Safi</h1>
-<h3 align="center">A passionate Software Developer and as Cloud Enthusiast</h3>
+<h3 align="center">A passionate Software Developer and a Cloud Enthusiast</h3>
 In love with clouds ☁️ || Learning. Building. Evolving. || Life-long learner 📚 || Badminton buff 🏸 || Curious mind, consistent grind.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedgithub12345&label=Profile%20views&color=0e75b6&style=flat" alt="syedgithub12345" /> </p>
 
